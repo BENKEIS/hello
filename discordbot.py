@@ -29,11 +29,11 @@ async def loop():
     
     if now == '02:59':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:jhlo:700932650944299098>') 
+        await channel.send('<:hello1:713004241131667528>') 
     
     if now == '05:26':
         channel = client.get_channel(CHANNEL_ID)
-        await channel.send('<:hello:699779689127870514> ') 
+        await channel.send('🥳:musical_note:') 
         
     if now == '07:26':
         channel = client.get_channel(CHANNEL_ID)
